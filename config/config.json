@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x011f614b13ef08B905A2Ae68443f6344CCE32046",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0x011f614b13ef08B905A2Ae68443f6344CCE32046",
+  "NETWORK": {
+    "NAME": "DogeChain",
+    "SYMBOL": "wDOGE",
+    "ID": 2000
+  },
+  "NFT_NAME": "DOGE GANG",
+  "SYMBOL": "DG",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Mantra",
+  "MARKETPLACE_LINK": "https://app.withmantra.com/auctions/collection/0x011f614b13ef08b905a2ae68443f6344cce32046?chain_id=2000",
+  "SHOW_BACKGROUND": true,
+  "STATUS": false
+}
